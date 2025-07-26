@@ -31,14 +31,7 @@ git clone https://github.com/data-lab01/ImageClassifier.git
 cd ImageClassifier
 ```
 
-### 2. Download ONNX Model & Labels
-- Place `squeezenet1.1-7.onnx` into `Models/`
-- Download `labels.txt` from [here](https://raw.githubusercontent.com/onnx/models/main/vision/classification/squeezenet/model/labels.txt)
-
-### 3. Add an Image
-Put your test image in the `Images/` folder and name it `umu.jpg` (or edit the path in `Program.cs`)
-
-### 4. Run the App
+### 2. Run the App
 ```bash
 dotnet run
 ```
