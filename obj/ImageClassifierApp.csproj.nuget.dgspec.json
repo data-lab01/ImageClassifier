@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/reveal/Documents/ImageClassifier/ImageClassifier.csproj": {}
+    "/Users/reveal/Documents/ImageClassifier/ImageClassifierApp.csproj": {}
   },
   "projects": {
-    "/Users/reveal/Documents/ImageClassifier/ImageClassifier.csproj": {
+    "/Users/reveal/Documents/ImageClassifier/ImageClassifierApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/reveal/Documents/ImageClassifier/ImageClassifier.csproj",
-        "projectName": "ImageClassifier",
-        "projectPath": "/Users/reveal/Documents/ImageClassifier/ImageClassifier.csproj",
+        "projectUniqueName": "/Users/reveal/Documents/ImageClassifier/ImageClassifierApp.csproj",
+        "projectName": "ImageClassifierApp",
+        "projectPath": "/Users/reveal/Documents/ImageClassifier/ImageClassifierApp.csproj",
         "packagesPath": "/Users/reveal/.nuget/packages/",
         "outputPath": "/Users/reveal/Documents/ImageClassifier/obj/",
         "projectStyle": "PackageReference",
@@ -17,14 +17,14 @@
           "/Users/reveal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -41,24 +41,28 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.ML": {
               "target": "Package",
-              "version": "[4.0.2, )"
+              "version": "[2.0.1, )"
             },
             "Microsoft.ML.ImageAnalytics": {
               "target": "Package",
-              "version": "[3.0.1, )"
+              "version": "[2.0.1, )"
             },
             "Microsoft.ML.OnnxRuntime": {
               "target": "Package",
-              "version": "[1.17.3, )"
+              "version": "[1.16.0, )"
             },
-            "Microsoft.ML.OnnxTransformer": {
+            "Microsoft.ML.Vision": {
               "target": "Package",
-              "version": "[4.0.2, )"
+              "version": "[2.0.1, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.2, )"
             }
           },
           "imports": [
@@ -72,12 +76,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.303/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/reveal/Documents/ImageClassifier/ModelVerification/ModelVerification.csproj": {}
+    "/Users/reveal/Documents/ImageClassifier/ImageClassifier/ImageClassifier.csproj": {}
   },
   "projects": {
-    "/Users/reveal/Documents/ImageClassifier/ModelVerification/ModelVerification.csproj": {
+    "/Users/reveal/Documents/ImageClassifier/ImageClassifier/ImageClassifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/reveal/Documents/ImageClassifier/ModelVerification/ModelVerification.csproj",
-        "projectName": "ModelVerification",
-        "projectPath": "/Users/reveal/Documents/ImageClassifier/ModelVerification/ModelVerification.csproj",
+        "projectUniqueName": "/Users/reveal/Documents/ImageClassifier/ImageClassifier/ImageClassifier.csproj",
+        "projectName": "ImageClassifier",
+        "projectPath": "/Users/reveal/Documents/ImageClassifier/ImageClassifier/ImageClassifier.csproj",
         "packagesPath": "/Users/reveal/.nuget/packages/",
-        "outputPath": "/Users/reveal/Documents/ImageClassifier/ModelVerification/obj/",
+        "outputPath": "/Users/reveal/Documents/ImageClassifier/ImageClassifier/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/reveal/.nuget/NuGet/NuGet.Config"
@@ -43,12 +43,6 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "dependencies": {
-            "Microsoft.ML.OnnxRuntime": {
-              "target": "Package",
-              "version": "[1.22.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

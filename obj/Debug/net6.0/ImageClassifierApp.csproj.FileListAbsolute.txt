@@ -1,0 +1,6 @@
+/Users/reveal/Documents/ImageClassifier/obj/Debug/net6.0/ImageClassifierApp.csproj.AssemblyReference.cache
+/Users/reveal/Documents/ImageClassifier/obj/Debug/net6.0/ImageClassifierApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reveal/Documents/ImageClassifier/obj/Debug/net6.0/ImageClassifierApp.AssemblyInfoInputs.cache
+/Users/reveal/Documents/ImageClassifier/obj/Debug/net6.0/ImageClassifierApp.AssemblyInfo.cs
+/Users/reveal/Documents/ImageClassifier/obj/Debug/net6.0/ImageClassifierApp.csproj.CoreCompileInputs.cache
+/Users/reveal/Documents/ImageClassifier/obj/Debug/net6.0/ImageClassifierApp.sourcelink.json

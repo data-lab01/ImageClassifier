@@ -1,6 +1,0 @@
-/Users/reveal/Documents/ImageClassifier/obj/Debug/net8.0/ImageClassifier.csproj.AssemblyReference.cache
-/Users/reveal/Documents/ImageClassifier/obj/Debug/net8.0/ImageClassifier.GeneratedMSBuildEditorConfig.editorconfig
-/Users/reveal/Documents/ImageClassifier/obj/Debug/net8.0/ImageClassifier.AssemblyInfoInputs.cache
-/Users/reveal/Documents/ImageClassifier/obj/Debug/net8.0/ImageClassifier.AssemblyInfo.cs
-/Users/reveal/Documents/ImageClassifier/obj/Debug/net8.0/ImageClassifier.csproj.CoreCompileInputs.cache
-/Users/reveal/Documents/ImageClassifier/obj/Debug/net8.0/ImageClassifier.sourcelink.json
