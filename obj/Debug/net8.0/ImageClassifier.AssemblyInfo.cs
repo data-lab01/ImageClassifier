@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImageClassifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d443587eb095f6c552265ca05de5ed338e4477d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46f6765313d9a834d795201569527b9186f0c4a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImageClassifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImageClassifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

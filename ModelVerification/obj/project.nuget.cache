@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d4wyk5cGfqU=",
+  "success": true,
+  "projectFilePath": "/Users/reveal/Documents/ImageClassifier/ModelVerification/ModelVerification.csproj",
+  "expectedPackageFiles": [
+    "/Users/reveal/.nuget/packages/microsoft.ml.onnxruntime/1.22.1/microsoft.ml.onnxruntime.1.22.1.nupkg.sha512",
+    "/Users/reveal/.nuget/packages/microsoft.ml.onnxruntime.managed/1.22.1/microsoft.ml.onnxruntime.managed.1.22.1.nupkg.sha512",
+    "/Users/reveal/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/reveal/.nuget/packages/system.numerics.tensors/9.0.0/system.numerics.tensors.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
